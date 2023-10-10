@@ -1,0 +1,7 @@
+body{
+    min-width: 300px;
+    color: whitesmoke;
+    font-size: 15px;
+    background: rgb(70,21,21);
+    background: linear-gradient(90deg, rgba(70,21,21,1) 0%, rgba(17,101,190,0.9249824929971989) 0%, rgba(7,233,230,1) 92%);
+}
